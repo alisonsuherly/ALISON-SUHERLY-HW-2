@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HW2</string>
+    <string name="_12h">12H</string>
+    <string name="_24h">24H</string>
+</resources>
